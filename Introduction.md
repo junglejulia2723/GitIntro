@@ -15,7 +15,7 @@
 - Complete MS Learn Path (search for Git): [Introduction to Version Control with Git](https://learn.microsoft.com/en-us/training/paths/intro-to-vc-git/) 
 - Bookmark this document: [Basic Git Commands](https://docs.github.com/en/get-started/using-git/about-git#basic-git-commands)
 
-**First task*
+**First task**
 - Clone this repository
 - Create a branch using the following naming convention verband-vorname-nachname e.g "C-Julia-Teissl"
 - Create a new file called "main.c"
