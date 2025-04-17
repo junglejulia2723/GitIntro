@@ -12,5 +12,11 @@
 **Recommended Learning Journey** 
 - Watch YouTube Video: [A brief introduction to Git for Beginners](https://www.youtube.com/watch?v=r8jQ9hVA2qs&list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f&index=1)
 - Read the corresponding article: [What is Git? Our beginner’s guide to version control](https://github.blog/developer-skills/programming-languages-and-frameworks/what-is-git-our-beginners-guide-to-version-control/)
-- Complete MS Learn Path: [Introduction to Version Control with Git](https://learn.microsoft.com/en-us/training/paths/intro-to-vc-git/)
+- Complete MS Learn Path (search for Git): [Introduction to Version Control with Git](https://learn.microsoft.com/en-us/training/paths/intro-to-vc-git/) 
 - Bookmark this document: [Basic Git Commands](https://docs.github.com/en/get-started/using-git/about-git#basic-git-commands)
+
+**First task*
+- Clone this repository
+- Create a branch using the following naming convention verband-vorname-nachname e.g "C-Julia-Teissl"
+- Create a new file called "main.c"
+- Add, commit and push the new file
