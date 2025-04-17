@@ -19,4 +19,5 @@
 - Clone this repository
 - Create a branch using the following naming convention verband-vorname-nachname e.g "C-Julia-Teissl"
 - Create a new file called "main.c"
+- Write "//This is just a comment" in the file
 - Add, commit and push the new file
